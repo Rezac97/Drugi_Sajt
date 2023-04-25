@@ -1,1 +1,19 @@
-/*# sourceMappingURL=DDoktora.css.map */
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+.forma {
+  width: 60%;
+  height: 200px;
+  margin: auto;
+  background-color: lightblue;
+  border: 1px solid rgb(65, 175, 212);
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  justify-content: space-between;
+  align-items: center;
+}/*# sourceMappingURL=DDoktora.css.map */
